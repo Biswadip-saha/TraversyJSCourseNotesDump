@@ -50,8 +50,6 @@ let output;
 // output = document.images
 // output = document.images
 
-console.log(output);
-
 // title.textContent = 'Hello World'
 // title.innerText = "Hello again"
 // title.innerHTML = '<strong> Shoping List </strong>'
@@ -88,8 +86,6 @@ const siblingEle = document.querySelector('.item:nth-child(2)');
 // output = siblingEle.nextElementSibling;
 // output.style.color = 'green';
 // output = siblingEle.previousElementSibling;
-
-console.log(output);
 
 // Nodes
 
